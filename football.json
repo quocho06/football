@@ -1,7 +1,7 @@
-[
-        {
-            "ID": 1,
-            "name": "Manchester United",
+[ 
+     {
+           "ID": 1,
+            "name": " Manchester United",
             "type": "Grass",
             "fomation": {
                 "GK": D.Gea,
@@ -15,8 +15,19 @@
                 "LW": M.Rashford,
                 "ST": Ronaldo,
                 "RW": J.Sancho,
-                "Defense": 49,
-                "Speed": 45
-},
-},
-]
+            },
+            "skill": [
+                [
+                    "Overgrow",
+                    "false"
+                ],
+                [
+                    "Chlorophyll",
+                    "true"
+                ]
+            ],
+            "coins": 18800,
+            "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+            "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+        },
+]        
