@@ -4,17 +4,17 @@
             "name": "Manchester United",
             "type": "Grass",
             "fomation": {
-                "GK": D.Gea,
-                "LB": L.Shaw,
-                "LCB": R.Varane,
-                "RCB": V.Lindeof,
-                "RB": A.Wan-Bissal,
-                "LDM": P.Pogba,
-                "RDM": N.Matic,
-                "CAM": BrunoFernan,
-                "LW": M.Rashford,
-                "ST": Ronaldo,
-                "RW": J.Sancho
+                "GK": 1,
+                "LB": 2,
+                "LCB": 3,
+                "RCB": 4,
+                "RB": 5,
+                "LDM": 6,
+                "RDM": 7,
+                "CAM": 8,
+                "LW": 9,
+                "ST": 10,
+                "RW": 11
             },
             "skill": [
                 [
@@ -30,4 +30,4 @@
             "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
             "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
         }
-]        
+]
