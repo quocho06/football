@@ -1,0 +1,26 @@
+[
+        {
+            "ID": 0,
+            "name": "Manchester United",
+            "type": "Grass",
+            "power": {
+                "HP": 45,
+                "Attack": 49,
+                "Defense": 49,
+                "Speed": 45
+            },
+            "skill": [
+                [
+                    "Overgrow",
+                    "false"
+                ],
+                [
+                    "Chlorophyll",
+                    "true"
+                ]
+            ],
+            "coins": 18800,
+            "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+            "images": " https://tinyurl.com/y7zkjayb"
+        }
+        ]
