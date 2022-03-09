@@ -3,7 +3,7 @@
             "ID": 1,
             "name": "Manchester United",
             "type": "Grass",
-            "Information": {
+            "fomation": {
                 "GK": D.Gea,
                 "LB": L.Shaw,
                 "LCB": R.Varane,
