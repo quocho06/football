@@ -1,7 +1,7 @@
 [ 
      {
            "ID": 1,
-            "name": " Manchester United",
+            "name": "Manchester United",
             "type": "Grass",
             "fomation": {
                 "GK": 1,
