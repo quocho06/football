@@ -4,17 +4,17 @@
             "name": " Manchester United",
             "type": "Grass",
             "fomation": {
-                "GK": D.Gea,
-                "LB": L.Shaw,
-                "LCB": R.Varane,
-                "RCB": V.Lindeof,
-                "RB": A.Wan-Bissal,
-                "LDM": P.Pogba,
-                "RDM": N.Matic,
-                "CAM": BrunoFernan,
-                "LW": M.Rashford,
-                "ST": Ronaldo,
-                "RW": J.Sancho
+                "1": D.Gea,
+                "2": L.Shaw,
+                "3": R.Varane,
+                "4": V.Lindeof,
+                "5": A.Wan-Bissal,
+                "6": P.Pogba,
+                "7": N.Matic,
+                "8": BrunoFernan,
+                "9": M.Rashford,
+                "10": Ronaldo,
+                "11": J.Sancho
             },
             "skill": [
                 [
